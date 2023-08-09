@@ -98,7 +98,7 @@ sd-1/controlnet/lineart_anime:
    recommended: False
 sd-1/controlnet/openpose:
    repo_id: lllyasviel/control_v11p_sd15_openpose
-   recommended: False
+   recommended: True
 sd-1/controlnet/scribble:
    repo_id: lllyasviel/control_v11p_sd15_scribble
    recommended: False
