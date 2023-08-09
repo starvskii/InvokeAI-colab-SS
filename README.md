@@ -1,4 +1,4 @@
-This is a personal modified project that Forked from camenduru/InvokeAI-colab, thanks to camenduru!!
+## This is a personal modified project that Forked from camenduru/InvokeAI-colab, thanks to camenduru!!
 Modified change log:
  - clone official InvokeAI project instead of camenduru‘s
  - SD base model updated to v3.0.1post3
@@ -9,7 +9,9 @@ WHAT I PLAN TO DO NEXT:
 
 
 
-## The original README contents from camenduru are as below, pls follow him/her if you like the job..
+## The original README contents from camenduru are as below.
+## Pls follow him/her if you like the job..
+
 
 🐣 Please follow me for new updates https://twitter.com/camenduru
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
