@@ -3,18 +3,20 @@ Modified change log:
  - clone official InvokeAI project instead of camenduru‘s
  - SD base model updated to v3.0.1post3
  - set openpose as preinstalled
+
 WHAT I'M PLAN TO DO NEXT:
  - Add a google drive DIR as a default Model path instead downloading you frequently used models each deployment.. 
  - Add a google drive DIR as a default output path..
 
 
 
-## The original README contents from camenduru are as below.
-## Pls follow him/her if you like the job..
+## Original README from camenduru are as below, follow him/her if you like it..
 
 
 🐣 Please follow me for new updates https://twitter.com/camenduru
+
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+
 🥳 Please join my patreon community https://patreon.com/camenduru
 
 ## 🦒 Colab
