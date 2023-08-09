@@ -1,12 +1,12 @@
 ## This is a personal modified project of camenduru/InvokeAI-colab, thanks!!
 Modified change log:
- - clone official InvokeAI project instead of camenduru‘s
- - SD base model updated to v3.0.1post3
- - set openpose as preinstalled
+ - clone official InvokeAI project instead of camenduru's
+ - updated to latest version v3.0.1post3 by Aug.1st
+ - preinstall openpose
 
 WHAT I'M PLAN TO DO NEXT:
- - Add a google drive DIR as a default Model path instead downloading you frequently used models each deployment.. 
- - Add a google drive DIR as a default output path..
+ - Add google drive DIR as a database of Model instead of downloading the models you prefered in each deployment.. 
+ - Add google drive DIR as a default output path to save the jobs..
 
 
 
