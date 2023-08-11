@@ -12,8 +12,12 @@ NOTE:
 
 
 WHAT I'M PLAN TO DO NEXT:
- - Add google drive DIR as a default output path to save the jobs..
-
+ - Add google drive as a default output path to save the jobs..
+.
+.
+.
+.
+.
 
 
 ## Original README from camenduru are as below, follow him/her if you like it..
