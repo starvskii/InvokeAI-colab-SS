@@ -2,8 +2,8 @@
 Modified change log:
  - clone official InvokeAI project instead of camenduru's
  - updated to latest version v3.0.1post3 by Aug.1st
- - preinstall openpose
- - Scan and preload the Models on your google drive
+ - preinstall SD 1.5, SDXL 1.0, openpose
+ - Scan and preload the Models on your google drive!!
 
 NOTE: 
 1. pls upload your models to Googledrive: /MyDrive/InvokeAI_Models/autoimports/...
