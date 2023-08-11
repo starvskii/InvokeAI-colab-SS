@@ -2,7 +2,7 @@
 Modified change log:
  - clone official InvokeAI project instead of camenduru's
  - updated to latest version v3.0.1post3 by Aug.11
- - preinstall SDXL 1.0, openpose
+ - preinstall SDXL 1.0
  - Scan and preload the Models on your google drive!!
 
 NOTE: 
