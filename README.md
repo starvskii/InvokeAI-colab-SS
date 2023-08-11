@@ -1,11 +1,17 @@
-## This is a personal modified project of camenduru/InvokeAI-colab, thanks!!
+## This is a personal modified project of camenduru/InvokeAI-colab.
 Modified change log:
  - clone official InvokeAI project instead of camenduru's
  - updated to latest version v3.0.1post3 by Aug.1st
  - preinstall openpose
+ - Scan and preload the Models on your google drive
+
+NOTE: 
+1. pls upload your models to Googledrive: /MyDrive/InvokeAI_Models/autoimports/...
+2. Colab will open a window and asks to sign in to google account
+![image](https://github.com/starvskii/InvokeAI-colab-SS/assets/53967896/1e13f4fd-3fb8-4257-8454-83ddcff17f4f)
+
 
 WHAT I'M PLAN TO DO NEXT:
- - Add google drive DIR as a database of Model instead of downloading the models you prefered in each deployment.. 
  - Add google drive DIR as a default output path to save the jobs..
 
 
