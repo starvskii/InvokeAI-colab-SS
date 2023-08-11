@@ -1,7 +1,7 @@
 ## This is a personal modified project of camenduru/InvokeAI-colab.
 Modified change log:
  - clone official InvokeAI project instead of camenduru's
- - updated to latest version v3.0.1post3 by Aug.1st
+ - updated to latest version v3.0.2 by Aug.11
  - preinstall SDXL 1.0, openpose
  - Scan and preload the Models on your google drive!!
 
