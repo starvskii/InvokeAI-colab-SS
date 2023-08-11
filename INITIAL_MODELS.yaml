@@ -2,8 +2,7 @@
 sd-1/main/stable-diffusion-v1-5:
    description: Stable Diffusion version 1.5 diffusers model (4.27 GB)
    repo_id: runwayml/stable-diffusion-v1-5
-   recommended: True
-   default: True
+   recommended: False
 sd-1/main/stable-diffusion-inpainting:
    description: RunwayML SD 1.5 model optimized for inpainting, diffusers version (4.27 GB)
    repo_id: runwayml/stable-diffusion-inpainting
@@ -19,15 +18,16 @@ sd-2/main/stable-diffusion-2-inpainting:
 sdxl/main/stable-diffusion-xl-base-1-0:
    description: Stable Diffusion XL base model (12 GB)
    repo_id: stabilityai/stable-diffusion-xl-base-1.0
-   recommended: False
+   recommended: True
+   default: True
 sdxl-refiner/main/stable-diffusion-xl-refiner-1-0:
    description: Stable Diffusion XL refiner model (12 GB)
    repo_id: stabilityai/stable-diffusion-xl-refiner-1.0
-   recommended: false
+   recommended: False
 sdxl/vae/sdxl-1-0-vae-fix:
    description: Fine tuned version of the SDXL-1.0 VAE
    repo_id: madebyollin/sdxl-vae-fp16-fix
-   recommended: False
+   recommended: True
 sd-1/main/Analog-Diffusion:
    description: An SD-1.5 model trained on diverse analog photographs (2.13 GB)
    repo_id: wavymulder/Analog-Diffusion
