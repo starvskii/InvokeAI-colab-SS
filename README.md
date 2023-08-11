@@ -6,7 +6,7 @@ Modified change log:
  - Scan and preload the Models on your google drive!!
 
 NOTE: 
-1. pls upload your models to Googledrive: /MyDrive/InvokeAI_Models/autoimports/...
+1. pls upload your models to Googledrive: /MyDrive/InvokeAI_models/autoimports/...
 2. Colab will open a window and asks to sign in to google account
 ![image](https://github.com/starvskii/InvokeAI-colab-SS/assets/53967896/1e13f4fd-3fb8-4257-8454-83ddcff17f4f)
 
